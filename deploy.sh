@@ -5,10 +5,10 @@
 # 确保脚本抛出遇到的错误
 set -e
 
-# 构建打包
-vuepress build docs
+# 生成静态文件
+npm run docs:build
 
-# 导航到构建输出目录
+# 进入生成的文件夹
 cd docs/.vuepress/dist
 
 git init
