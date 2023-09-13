@@ -10,9 +10,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "chenzhuo <chenzhuo@smartdot.com>",
+  "author": "gavinchenz <532686661@qq.com>",
   "license": "ISC",
-  "repository": "https://git.imooc.com/gavinchenz/vuePressBycz.git",
+  "repository": "https://github.com/gavinchenz/blog.git",
   "devDependencies": {
     "vuepress": "^1.9.10"
   }
