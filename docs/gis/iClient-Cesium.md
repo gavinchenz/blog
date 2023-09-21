@@ -1,6 +1,6 @@
 ---
 title: iClient-cesium
-sidebar: auto
+# sidebar: auto
 prev: ./cesium
 next: false
 ---

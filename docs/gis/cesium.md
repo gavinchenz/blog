@@ -1,6 +1,6 @@
 ---
 title: cesium
-sidebar: auto
+# sidebar: auto
 prev: /gis/
 next: ./iClient-Cesium
 ---

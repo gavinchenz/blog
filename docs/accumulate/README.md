@@ -3,13 +3,8 @@ title: 前端
 prev: /
 next: /accumulate/css
 ---
-```
-// js
-export default{
-    data () {
-        return {
-            msg:'this is accumulate demo'
-        }
-    }
-}
-```
+## 前端开发
+
+- [:point_right: css](/accumulate/css)
+- [:point_right: js](/accumulate/javascript)
+- [:point_right: vue](/accumulate/vue)

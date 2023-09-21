@@ -1,6 +1,6 @@
 ---
 title: leaflet
-sidebar: auto
+# sidebar: auto
 prev: /gis/
 next: ./iClient-leaflet
 ---
