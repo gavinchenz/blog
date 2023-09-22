@@ -1,10 +1,13 @@
 ---
 title: css
-sidebar: auto
+sidebar: [[toc]]
 prev: /accumulate/
 next: /accumulate/javascript
 ---
+# 目录
+[[toc]]
 
+## 一些不错的外链
 - [:gift_heart: 42个来自《 CSS世界》中的实用技巧](https://mp.weixin.qq.com/s/eD0QM7gzjR89329lab_99g)
 - [:gift_heart: 20个 CSS 快速提升技巧](https://mp.weixin.qq.com/s/v_NpdaOvplb7haGFEZYCpg)
 - [:gift_heart: 十几个CSS高级常见技巧汇总](https://mp.weixin.qq.com/s/WkCjMAsQ5gS80XrAGHkUzg)

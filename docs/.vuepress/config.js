@@ -55,7 +55,8 @@ module.exports = {
         '/accumulate/':['', 'css','javascript', 'vue'],
         '/gis/':['', 'leaflet', 'iClient-leaflet','cesium', 'iClient-leaflet'],
         'skill': [''],
-        '/':['', 'about']
+        // '/':['', 'about']
+        '/':['']
       }
     },
     configureWebpack: {
