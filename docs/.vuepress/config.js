@@ -9,6 +9,10 @@ module.exports = {
     markdown: {
       lineNumbers: false // 代码块显示行号
     },
+    plugins: [
+      '@vuepress/back-to-top',
+      '@vuepress/nprogress'
+    ],
     themeConfig: {
       search: false, // 禁用默认的搜索框，或是通过 true
       // searchMaxSuggestions: 10, // 调整默认搜索框显示的搜索结果数量，默认 10
@@ -19,16 +23,18 @@ module.exports = {
       prevLinks: true, // 默认值是 true 。设置为 false 来禁用所有页面的 上一篇 链接
       logo:'/assets/img/favicon-32x32.png',
       nav:[ // 导航栏配置
-        {text: '前端', link: '/accumulate/'},
-        // {
-        //   text: '前端',
-        //   ariaLabel: 'accumulate Menu',
-        //   items: [
-        //     { text: 'css', link: '/accumulate/css' },
-        //     { text: 'javascript', link: '/accumulate/javascript' },
-        //     { text: 'vue', link: '/accumulate/vue' },
-        //   ]
-        // },
+        // {text: '前端', link: '/accumulate/'},
+        {
+          text: '前端开发',
+          ariaLabel: 'accumulate Menu',
+          items: [
+            { text: '前端', link: '/accumulate/' },
+            { text: 'css', link: '/accumulate/css' },
+            { text: 'js', link: '/accumulate/javascript' },
+            { text: 'vue', link: '/accumulate/vue' },
+            { text: 'Elememt-UI', link: '/accumulate/Elememt-UI' },
+          ]
+        },
         {text: 'GIS', link: '/gis/'},
         // {
         //   text: 'GIS',
@@ -52,7 +58,7 @@ module.exports = {
       // sidebar: 'auto', // 侧边栏配置
       // sidebarDepth: 2, // 侧边栏显示2级
       sidebar: {
-        '/accumulate/':['', 'css','javascript', 'vue'],
+        '/accumulate/':['', 'css','javascript', 'vue', 'Elememt-UI'],
         '/gis/':['', 'leaflet', 'iClient-leaflet','cesium', 'iClient-leaflet'],
         'skill': [''],
         // '/':['', 'about']
@@ -63,7 +69,7 @@ module.exports = {
       resolve: {
         alias: {
           '@assets': './public/assets',
-          '@img': './public/assets/img',
+          '@img': './public/assets/img'
         }
       }
     }

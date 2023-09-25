@@ -21,11 +21,11 @@ next: false
 - [:gift_heart: NProgress](https://github.com/rstacruz/nprogress)[:point_right: 官网](https://ricostacruz.com/nprogress/)
 ## 解决 vue 中使用 scss 时，依赖 node-sass 和 sass-loader 的版本问题
 - node-v     16.11.1
-``` node
+``` sh
 npm install sass-loader@10.2.0 node-sass@6.0.1 --save-dev
 ```
 - node-v     16.11.1 以下版本
-``` node 
+``` sh 
 npm install sass-loader@7.3.1 node-sass@4.14.1 --save-dev
 ```
 
@@ -61,7 +61,7 @@ export default {
 </script>
 ```
 ## Vue 使用 NProgress
-``` git
+``` sh
 $ npm install --save nprogress 
 $ 或者
 $ yarn add nprogress
@@ -246,7 +246,7 @@ data() {
 </div>
 ```
 ## intersection-observer 监听某元素是否在可视区域内
-``` git
+``` sh
 npm i intersection-observer
 ```
 用法：
