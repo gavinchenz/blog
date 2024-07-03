@@ -1,0 +1,5 @@
+/node_modules
+.temp
+.cache
+.vscode
+/docs/gis/SuperMap/filesSuperMapiServer11i(2023)_ZH.chm
