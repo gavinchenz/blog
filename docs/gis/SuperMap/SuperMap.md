@@ -60,7 +60,8 @@ SuperMap GIS 产品系列中的云GIS平台软件包括 **SuperMap iServer、Sup
 
 ![产品包目录结构](./images/016.png "产品包目录结构")
 
-[帮助文档](./files/SuperMapiServer11i(2023)_ZH.chm)
+<!-- [帮助文档](./files/SuperMapiServer11i(2023)_ZH.chm) -->
+帮助文档(文件太大被上传限制，有需要的可以联系我邮箱发你)
 
 ![帮助文档](./images/017.png "帮助文档")
 
