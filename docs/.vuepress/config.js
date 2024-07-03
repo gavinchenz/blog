@@ -57,7 +57,8 @@ module.exports = {
       sidebar: {
         '/accumulate/':['', 'css','javascript', 'vue', 'Elememt-UI'],
         // '/gis/':['', 'leaflet', 'iClient-leaflet','cesium', 'iClient-leaflet'],
-        '/gis/':['', 'SuperMap'],
+        // '/gis/':['', 'SuperMap'],
+        '/gis/':[''],
         'skill': [''],
         // '/':['', 'about']
         '/':['']
