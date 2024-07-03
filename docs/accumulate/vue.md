@@ -297,3 +297,7 @@ function waterfallFlow (f_el, i_el,) {
 ## [canvas绘制验证码](./verification-code.md)
 
 ## [vue之实例属性](./instance-properties.md)
+
+## [一个 vue 页面有多个 Echarts 时不动态响应的处理方法](./echart.md)
+
+## [echarts 动态展示 tooltip](./tooltip.md)

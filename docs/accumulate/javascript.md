@@ -8,6 +8,17 @@ next: /accumulate/vue
 [[toc]]
 
 ## 一些不错的外链
+- [:gift_heart: 前端特效存档](https://github.com/yangxi0126/javaScript)
+- [:gift_heart: JavaScript 动画引擎](https://github.com/juliangarnier/anime)
+- [:gift_heart: 你不需要 JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript/blob/master/README-zh_CN.md)
+- [:gift_heart: JavaScript 资源库](https://github.com/jobbole/awesome-javascript-cn)
+- [:gift_heart: 加载作为文件或 Blob 对象或通过 URL 提供的图像并支持缩放、裁剪或旋转](https://github.com/blueimp/JavaScript-Load-Image)
+- [:gift_heart: JavaScript 图像裁剪器](https://github.com/fengyuanchen/cropperjs)
+- [:gift_heart: JavaScript 图像查看器](https://github.com/fengyuanchen/viewerjs)
+- [:gift_heart: 一个将 canvas 元素转换为 Blob 对象的函数](https://github.com/blueimp/JavaScript-Canvas-to-Blob)
+- [:gift_heart: 简单的 JavaScript Toast 通知](https://github.com/CodeSeven/toastr)
+- [:gift_heart: 标准的加密 JavaScript 库](https://github.com/brix/crypto-js)
+- [:gift_heart: 使用 Winwheel 在 HTM L画布上创建旋转的奖轮](https://github.com/zarocknz/javascript-winwheel)
 - [:gift_heart: 每个 JavaScript 工程师都应懂的33个概念](https://mp.weixin.qq.com/s/DQMeY6Iu7kG2WPHb2R9rRw)
 - [:gift_heart: ES6 中 Promise 方法总结](https://mp.weixin.qq.com/s/1cbG6D1mWbLtUmwu2OIjQA)
 - [:gift_heart: 15个必须知道的 JavaScript 数组方法](https://mp.weixin.qq.com/s/oPGPZXmkjOVc6xbTZLLUAw)

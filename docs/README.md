@@ -2,6 +2,7 @@
 title: 首页
 pageClass: custom-page-class
 ---
+# 坑我来踩，干货全拿走
 
 - [:gift_heart: 免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)
 - [:gift_heart: 如果有人让你推荐前端技术书，请让他看这个列表](https://github.com/jobbole/awesome-web-dev-books)
@@ -14,3 +15,4 @@ pageClass: custom-page-class
 - [:gift_heart: 用 vuepress 写个人简历](https://github.com/imfing/vuepress-homepage)
 - [:gift_heart: 一个我很喜欢的 vuepress2.0 主题](https://github.com/Renovamen/vuepress-theme-gungnir)
 - [:gift_heart: 有很多 css 样式可以直接拿来用](https://qishaoxuan.github.io/css_tricks/accordion/)
+- [:gift_heart: 写微信公众号文章的好帮手 一款高度简洁的微信 Markdown 编辑器](https://github.com/doocs/md)

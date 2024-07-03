@@ -35,31 +35,29 @@ module.exports = {
             { text: 'Elememt-UI', link: '/accumulate/Elememt-UI' },
           ]
         },
-        {text: 'GIS', link: '/gis/'},
-        // {
-        //   text: 'GIS',
-        //   ariaLabel: 'GIS Menu',
-        //   items: [
-        //     { text: '二维', items: [
-        //         { text: 'leaflet', link: '/gis/leaflet' },
-        //         { text: 'iClient-leaflet', link: '/gis/iClient-leaflet' },
-        //       ] 
-        //     },
-        //     { text: '三维', items: [
-        //         { text: 'Cesium', link: '/gis/cesium' },
-        //         { text: 'iClient-leaflet', link: '/gis/iClient-Cesium' },
-        //       ] 
-        //     }
-        //   ]
-        // },
-        {text: '帮助文档', link: '/skill/'},
+        // {text: 'GIS', link: '/gis/'},
+        {
+          text: 'GIS开发',
+          ariaLabel: 'GIS Menu',
+          items: [
+            { text: 'SuperMap', link: '/gis/SuperMap/SuperMap' },
+            // { text: '三维', items: [
+            //     { text: 'Cesium', link: '/gis/cesium' },
+            //     { text: 'iClient-leaflet', link: '/gis/iClient-Cesium' },
+            //   ] 
+            // }
+          ]
+        },
+        {text: '后台开发', link: '/java/java'},
+        // {text: '帮助文档', link: '/skill/'},
         // {text: '微博', link: 'https://baidu.com'},
       ],
       // sidebar: 'auto', // 侧边栏配置
       // sidebarDepth: 2, // 侧边栏显示2级
       sidebar: {
         '/accumulate/':['', 'css','javascript', 'vue', 'Elememt-UI'],
-        '/gis/':['', 'leaflet', 'iClient-leaflet','cesium', 'iClient-leaflet'],
+        // '/gis/':['', 'leaflet', 'iClient-leaflet','cesium', 'iClient-leaflet'],
+        '/gis/':['', 'SuperMap'],
         'skill': [''],
         // '/':['', 'about']
         '/':['']
